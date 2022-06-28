@@ -1,14 +1,191 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": {
+    "data": [
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 195,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b59ee90d67ef73cf6b9974",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "industrialAreaUnlockNG-expiredAtContact-62b12ebe18e46e04f066c79d",
+        "createdAt": "2022-06-24T11:24:25.759Z",
+        "updatedAt": "2022-06-24T11:24:25.759Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 203,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b59ece0d67ef73cf6b9964",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "industrialAreaUnlockNG-expiredAtContent-62b12ebe18e46e04f066c79d",
+        "createdAt": "2022-06-24T11:23:58.923Z",
+        "updatedAt": "2022-06-24T11:23:58.923Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 211,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b59db10d67ef73cf6b98bb",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "investorUnlockNG-expiredAtContent-62b298306de710a4c9208aa7",
+        "createdAt": "2022-06-24T11:19:13.567Z",
+        "updatedAt": "2022-06-24T11:19:13.567Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 219,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b599200d67ef73cf6b975b",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "enterpriseUnlockNG-expiredAtContent-62b581d20d67ef73cf6b90c9",
+        "createdAt": "2022-06-24T10:59:44.532Z",
+        "updatedAt": "2022-06-24T10:59:44.532Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 227,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b4968fa6dc28549581eba9",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "industrialAreaUnlockNG-expiredAtContent-62b1a4e890e8c5fb0d5f3377",
+        "createdAt": "2022-06-23T16:36:31.431Z",
+        "updatedAt": "2022-06-23T16:36:31.431Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 235,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b4968ba6dc28549581eb9e",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "industrialAreaUnlockNG-expiredAtContact-62b1a4e890e8c5fb0d5f3377",
+        "createdAt": "2022-06-23T16:36:27.727Z",
+        "updatedAt": "2022-06-23T16:36:27.727Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 243,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b49640a6dc28549581eb71",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "industrialAreaUnlockNG-expiredAtContact-62b2139d3d1a1c75cea68974",
+        "createdAt": "2022-06-23T16:35:12.477Z",
+        "updatedAt": "2022-06-23T16:35:12.477Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 251,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b32ad3036b526e84a3f556",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "investorUnlockNG-expiredAtContent-62b2bb1c6de710a4c9208fd2",
+        "createdAt": "2022-06-22T14:44:35.083Z",
+        "updatedAt": "2022-06-22T14:44:35.083Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 259,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b32ab3036b526e84a3f538",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "enterpriseUnlockNG-expiredAtContent-62a2ffd63a6c24e8aa27a0f6",
+        "createdAt": "2022-06-22T14:44:03.787Z",
+        "updatedAt": "2022-06-22T14:44:03.787Z",
+        "__v": 0
+      },
+      {
+        "balance": {
+          "creditPointsPromotionNG": 0,
+          "creditPointsNG": 267,
+          "creditPoints2KCN": 0,
+          "creditPointsPromotion2KCN": 0
+        },
+        "_id": "62b298016de710a4c9208a88",
+        "user": "62ac43b3891f927bbc5d01e7",
+        "amount": 8,
+        "type": "LOST",
+        "typeSystem": "NIEN_GIAM",
+        "status": true,
+        "action": "enterpriseUnlockNG-expiredAtContent-628e0f8b53b30a1219c54211",
+        "createdAt": "2022-06-22T04:18:09.892Z",
+        "updatedAt": "2022-06-22T04:18:09.892Z",
+        "__v": 0
+      }
+    ],
+    "page": 1,
+    "limit": 10,
+    "total": 231
+  },
+  "message": "Thành công",
+  "statusCode": 200
 }
