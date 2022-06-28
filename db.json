@@ -1,6 +1,5 @@
-{
-  "data": {
-    "data": [
+
+  
       {
         "balance": {
           "creditPointsPromotionNG": 0,
@@ -181,11 +180,4 @@
         "updatedAt": "2022-06-22T04:18:09.892Z",
         "__v": 0
       }
-    ],
-    "page": 1,
-    "limit": 10,
-    "total": 231
-  },
-  "message": "Thành công",
-  "statusCode": 200
-}
+   
